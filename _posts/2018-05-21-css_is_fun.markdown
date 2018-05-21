@@ -1,0 +1,9 @@
+---
+layout: post
+title:      "CSS is fun!"
+date:       2018-05-21 23:55:14 +0000
+permalink:  css_is_fun
+---
+
+
+Cascading Style Sheets (CSS) is a fun way to style web pages. Each webpage has a layout and each section of the page can be styled. You can adjust the page margins, title size, fonts, lineweights, colors - the possibilities are endless! I have always loved picking colors and fonts so CSS is exciting to me. 
